@@ -1,4 +1,8 @@
 {
+    "1C435217-1F56-4B14-B162-D5571841CD11/ExpandedNodes/43BDE4C8-FC19-41CB-9E78-CEECAC249FEC": "Box",
+    "7BC554D0-B491-41F2-8290-09F7882A60D6/SelectedTimelineObject": "0 0 ",
+    "9DD82863-6216-4A52-8E82-4C1F5D743D81/SelectedTimelineObject": "0 0 ",
+    "9DD82863-6216-4A52-8E82-4C1F5D743D81/UnfoldedTimelineNodes/439978E0-377B-4699-B3C2-DEAE332C840B": "Box",
     "Camera/Position/X": 4.319224834442139,
     "Camera/Position/Y": 2.9931468963623047,
     "Camera/Position/Z": 5.981563091278076,
@@ -7,6 +11,8 @@
     "Camera/Rotation/Y": 0.30193382501602173,
     "Camera/Rotation/Z": 0.05891338363289833,
     "Camera/Type": 0,
+    "D4B47804-432A-4049-AA55-3DC378A28AB9/SelectedTimelineObject": "0 0 ",
+    "D4B47804-432A-4049-AA55-3DC378A28AB9/UnfoldedTimelineNodes/77A5C0FF-17BA-46A3-AE75-5B054A8E88A3": "Play Box Animation - P",
     "Editor/ValueDraggerStepSize": 10,
     "SnapTypePosiotion/SnapPreset1": 0.5,
     "SnapTypePosiotion/SnapPreset2": 1,
@@ -14,5 +20,5 @@
     "SnapTypeRotation/SnapPreset1": 45,
     "SnapTypeRotation/SnapPreset2": 90,
     "SnapTypeRotation/SnapPresetSelected": 0,
-    "export/projectName": "New-Project-without-Character"
+    "export/projectName": "Simple-Inserted-Timeline"
 }
